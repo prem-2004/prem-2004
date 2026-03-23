@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-██████╗ ██████╗ ███████╗███╗   ███╗    ██████╗  ██████╗  ██████╗  ██╗
-██╔══██╗██╔══██╗██╔════╝████╗ ████║    ╚════██╗██╔═████╗██╔═████╗██╔╝
-██████╔╝██████╔╝█████╗  ██╔████╔██║     █████╔╝██║██╔██║██║██╔██║███████╗
-██╔═══╝ ██╔══██╗██╔══╝  ██║╚██╔╝██║    ██╔═══╝ ████╔╝██║████╔╝██║██╔═══╝
-██║     ██║  ██║███████╗██║ ╚═╝ ██║    ███████╗╚██████╔╝╚██████╔╝██║
-╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝    ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝
+██████╗ ██████╗ ███████╗███╗   ███╗    ██████╗ ██████╗  █████╗      ██╗ █████╗ ██████╗  █████╗ ████████╗██╗
+██╔══██╗██╔══██╗██╔════╝████╗ ████║    ██╔══██╗██╔══██╗██╔══██╗     ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║
+██████╔╝██████╔╝█████╗  ██╔████╔██║    ██████╔╝██████╔╝███████║     ██║███████║██████╔╝███████║   ██║   ██║
+██╔═══╝ ██╔══██╗██╔══╝  ██║╚██╔╝██║    ██╔═══╝ ██╔══██╗██╔══██║██   ██║██╔══██║██╔═══╝ ██╔══██║   ██║   ██║
+██║     ██║  ██║███████╗██║ ╚═╝ ██║    ██║     ██║  ██║██║  ██║╚█████╔╝██║  ██║██║     ██║  ██║   ██║   ██║
+╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=🔐+Cybersecurity+Enthusiast+%26+SOC+Analyst;🛡️+VAPT+%7C+Web+App+Security+%7C+Bug+Bounty;🚀+Breaking+Things+Ethically+Since+Day+One;🎯+Top+2%25+on+TryHackMe+%F0%9F%94%A5" alt="Typing SVG" />
@@ -30,7 +30,7 @@ $ cat about_me.txt
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
-│   Name     : Prem                                                   │
+│   Name     : Prem Prajapati                                         │
 │   Role     : Cybersecurity Enthusiast & Aspiring SOC Analyst        │
 │   Focus    : VAPT | Web App Security | Network Reconnaissance       │
 │   Status   : [████████████░░░] Building Career in Cyber...         │
@@ -100,7 +100,7 @@ tools = {
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/prem-2004.png)](https://tryhackme.com/p/prem-2004)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/HexPrem.png)](https://tryhackme.com/p/HexPrem)
 
 </div>
 
@@ -158,9 +158,9 @@ tools = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/prem-2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-prajapati04/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premprajapti364@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/HexPrem)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prem-2004)
 
 </div>
